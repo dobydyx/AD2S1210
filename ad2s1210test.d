@@ -1,0 +1,13 @@
+ad2s1210test.o: AD2S1210Test.c
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\ADuC7026.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\irq.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\timer.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\dac.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\uart.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\I2C.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\PLA.H
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\GPIO.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\flash.h
+ad2s1210test.o: d:\Keil\ARM\INC\ADI\pwm.h
+ad2s1210test.o: ADuC7026Driver.h
+ad2s1210test.o: AD2S1210.h
